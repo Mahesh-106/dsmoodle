@@ -8,7 +8,7 @@ Algorithm:
   CODE:-
 #include <stdio.h>
 #include <stdlib.h>
-
+ 
 // Define a structure for the BST node
 struct Node {
     int data;
