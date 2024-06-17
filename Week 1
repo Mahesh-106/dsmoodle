@@ -7,7 +7,7 @@ Insert a node after P
 Insert a node at the end of a list
 Find an element in a list 
 FindNext 
-FindPrevious
+FindPrevious 
 isLast
 isEmpty
 Delete a node in the beginning of a list.
