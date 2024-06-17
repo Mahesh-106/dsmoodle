@@ -12,7 +12,7 @@ Polynomial addition:
 #include <stdlib.h>
 
 struct poly
-
+ 
 {
 
 int coeff;
