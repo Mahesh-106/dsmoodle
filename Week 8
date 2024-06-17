@@ -11,7 +11,7 @@ struct Tree
 { int ele;
   struct Tree *left;
   struct Tree *right;};
-typedef struct Tree tree;
+typedef struct Tree tree; 
 //tree *root=NULL;
 
 tree *create(tree *root,int x)
