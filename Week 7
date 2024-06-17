@@ -7,7 +7,7 @@ Display the elements in a Queue
 
   Algorithm:
    CODE:-
-//Queue linked list
+//Queue linked list 
 #include <stdio.h>
 #include <stdlib.h>
 struct Queue 
