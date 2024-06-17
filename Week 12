@@ -8,7 +8,7 @@ CODE:-
 #include <stdio.h> 
 #include <stdlib.h> 
 
-// Structure to represent a stack 
+// Structure to represent a stack  
 struct Stack { 
 	int data; 
 	struct Stack* next; 
